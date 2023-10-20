@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: pink;
+    font-family: tahoma;
+
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border:7px ridge grey;
+    background-color: black;
+    margin-left: 500px;
+}
+
+h1{
+    background-color: white;
+    border-radius: 1300px;
+    width: 500px;
+    margin-left: 415px;
+}
